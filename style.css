@@ -1,0 +1,30 @@
+button{
+    width: 200px;
+    height: 200px;
+    background-color:red;
+    color: white;
+    font-size: 40pt;
+    
+}
+
+.box{
+    background-color: grey;
+    border-width: 10px;
+    border-color: red;
+    border-radius: 20px;
+    display: flex;
+
+}
+.box h2{
+    font-size: 100px;
+
+    
+}
+.counter{
+    background-color: blue;
+    color:white;
+    width: 150px;
+    font-size: 2s0px;
+
+
+}
